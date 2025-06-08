@@ -2,7 +2,7 @@
 
 **`Developer`** **`Electronic`** **`Design projects`**
 
-### 🛠️ Technology
+## 🛠️ Technology
 
 <p align="left">
   <!-- Banco de Dados -->
